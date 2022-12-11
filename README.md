@@ -1,3 +1,5 @@
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/lucarauj/criacao-de-websites-com-html5-e-css3-dio/blob/main/LICENSE)
+
 ## Introdução a Criação de Websites com HTML5 e CSS3
 
 ![](https://github.com/lucarauj/assets/blob/main/page.png)
